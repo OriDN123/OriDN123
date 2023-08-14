@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
+[![MasterHead](https://mattermark.com/wp-content/uploads/2016/06/giphy-21.gif)](https://google.com/)
 <h1 align="center">Ayo, I'm OriDN 👋</h1>
 <h3 align="center">#Here_To_Enjoy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oridn123&label=Profile%20views&color=0e75b6&style=flat" alt="oridn123" /> </p>
