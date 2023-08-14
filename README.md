@@ -1,16 +1,13 @@
-### Hi there 👋
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
+<h1 align="center">Ayo, I'm OriDN 👋</h1>
+<h3 align="center">#Here_To_Enjoy</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oridn123&label=Profile%20views&color=0e75b6&style=flat" alt="oridn123" /> </p>
 
-<!--
-**OriDN123/OriDN123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🍒 My Private Discord Name - oridn
 
-Here are some ideas to get you started:
+- 👨‍💻 Small projects available at - [https://github.com/OriDN123?tab=repositories](https://github.com/OriDN123?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💼 Currently sold over - **145+ QBCore server files & 310 scripts separately.** Feel free to join the family! <br>
+**My discord is below the description.**</br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=OriDN123&theme=onedark&show_icons=true)
